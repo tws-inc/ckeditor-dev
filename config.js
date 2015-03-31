@@ -65,6 +65,10 @@ CKEDITOR.editorConfig = function( config ) {
 		'templates,' +
 		'toolbar,' +
 		'undo,' +
+		'html5validation,' +
+		'codemirror,' +
+		'widgetbootstrap,' +
+		'widgettemplatemenu,' +
 		'wysiwygarea';
 	// %REMOVE_END%
 };
