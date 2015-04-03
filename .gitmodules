@@ -1,0 +1,3 @@
+[submodule "plugins/widgetbootstrap"]
+	path = plugins/widgetbootstrap
+	url = ../../albatrossdigital/widgetbootstrap.git
