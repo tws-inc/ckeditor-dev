@@ -39,7 +39,7 @@ CKEDITOR.plugins.add( 'forms', {
 			allowedContent = {
 				checkbox: 'input[type,name,checked]',
 				radio: 'input[type,name,checked]',
-				textfield: 'input[type,name,value,size,maxlength']',
+				textfield: 'input[type,name,value,size,maxlength]',
 				textarea: 'textarea[cols,rows,name]',
 				select: 'select[name,size,multiple]; option[value,selected]',
 				button: 'input[type,name,value]',
