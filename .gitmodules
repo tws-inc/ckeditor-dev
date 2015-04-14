@@ -1,6 +1,6 @@
 [submodule "plugins/html5validation"]
 	path = plugins/html5validation
-	url = ../ckeditor-html5-form-validation.git
+	url = https://github.com/tws-inc/ckeditor-html5-form-validation.git
 [submodule "plugins/widgetbootstrap"]
 	path = plugins/widgetbootstrap
-	url = ../../albatrossdigital/widgetbootstrap.git
+	url = https://github.com/albatrossdigital/widgetbootstrap.git
